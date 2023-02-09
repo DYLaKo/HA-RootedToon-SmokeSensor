@@ -1,0 +1,10 @@
+{
+  "domain": "toon_smoke",
+  "name": "TOON Smoke Sensors",
+  "version": "1.0.0",
+  "documentation": "https://no-url.available/docu",
+  "issue_tracker": "https://no-url.available/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@cyberjunky","DYLaKo"]
+}
